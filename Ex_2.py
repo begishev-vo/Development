@@ -7,8 +7,6 @@
 # 60 -> 10  40  10
 
 x = int(input(" Number_bird_Petja and Sergej "))
-Katja = 2 * x
-
 S = 6 * x
 
 print("Sum_Number_bird = {}".format(S))
