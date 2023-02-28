@@ -14,3 +14,4 @@ S = 6 * x
 print("Sum_Number_bird = {}".format(S))
 
 
+
