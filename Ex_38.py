@@ -79,6 +79,7 @@ def add_cnct(dict_phonebook, new_cnct_in = [0]):
     return dict_phonebook
 
 
+
 def cnct_find(dict_phonebook):
     name_cnct = input('Введите ИФ')
     if name_cnct in dict_phonebook:
